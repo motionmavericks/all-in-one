@@ -13,3 +13,5 @@
 /manual-install/docker-compose.yml
 /manual-install/compose.yaml
 /manual-install/.env
+.env*
+credentials*
